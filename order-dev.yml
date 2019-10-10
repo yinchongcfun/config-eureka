@@ -12,5 +12,4 @@ spring:
     username: root
   jpa:
     show-sql: true
- env:
-    dev
+
